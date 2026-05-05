@@ -852,7 +852,7 @@ export const menuItems = [
     },
     price: 6.00,
     category: "Napoje",
-    image: "/real-photos/cola330.jpg",
+    image: "/real-photos/cola-330.jpg",
     badge: null,
     weight: "330ml",
   },

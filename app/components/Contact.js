@@ -30,7 +30,7 @@ export default function Contact() {
           {/* Map */}
           <div className="map-container aspect-[4/3] lg:aspect-auto">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.5!2d21.0122!3d52.2297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc669a869f01%3A0x72f0be2a88ead3fc!2sWarsaw%20Old%20Town!5e0!3m2!1sen!2spl!4v1704000000000!5m2!1sen!2spl"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2442.827170195614!2d21.0850259!3d52.2392762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc256d0d2427%3A0x5e08b1f5f3e0c0!2sGrochowska%20256%2C%2004-365%20Warszawa%2C%20Poland!5e0!3m2!1sen!2spl!4v1714867200000!5m2!1sen!2spl"
               width="100%"
               height="100%"
               style={{ border: 0, minHeight: "350px" }}
